@@ -12,10 +12,10 @@ Crie uma tela simples usando Next.JS que exiba essas transações salvas no Dyna
 
 ---
 ### Passos desenvolvidos
-# Pasta aws_cdk
+#### Pasta aws_cdk
 Início através do localhost fazendo deploy das stacks para a aws localmente.
 
-# Pasta aws-project-challenge
+#### Pasta aws-project-challenge
 Código segundo acesso via nuvem de forma virtual.
 
 ```bash
