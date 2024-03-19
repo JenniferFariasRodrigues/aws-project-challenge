@@ -27,25 +27,21 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>5.3.14</version> <!-- ou a versão mais recente -->
+            <version>5.3.14</version> 
         </dependency>
-        
-          
-         <dependency>
+        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-autoconfigure</artifactId>  
-         </dependency>
-         <dependency>
+        </dependency>
+        <dependency>
             <groupId>com.github.derjust</groupId>
             <artifactId>spring-data-dynamodb</artifactId>
-            <version>5.1.0</version>  
-         </dependency>
-           
-          
-         <dependency>
+            <version>5.1.0</version>
+        </dependency>
+        <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-autoconfigure</artifactId>  
-         </dependency>
+            <artifactId>spring-boot-autoconfigure</artifactId>
+        </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-dynamodb</artifactId>
