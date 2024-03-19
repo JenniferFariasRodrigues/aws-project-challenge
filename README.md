@@ -12,9 +12,14 @@ Crie uma tela simples usando Next.JS que exiba essas transações salvas no Dyna
 
 ---
 ### Passos desenvolvidos
+## Pasta aws_cdk
+Início através do localhost fazendo deploy das stacks para a aws localmente.
+
+## Pasta aws-project-challenge
+Código segundo acesso via nuvem de forma virtual.
 
 ```bash
-- Configuração do projeto Spring Boot no VSCode
+- Configuração do projeto Spring Boot no VSCode.
 controlador TransactionController.java para lidar com as requisições POST
 -Criação da API POST em Node.js usando Express
 -Configuração da AWS SDK e integração com SQS e DynamoDB no Node.js
