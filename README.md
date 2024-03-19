@@ -12,7 +12,8 @@ Crie uma tela simples usando Next.JS que exiba essas transações salvas no Dyna
 
 ---
 ### Passos desenvolvidos
----
+
+```bash
 1. Configuração do projeto Spring Boot no VSCode
    
   controlador TransactionController.java para lidar com as requisições POST
