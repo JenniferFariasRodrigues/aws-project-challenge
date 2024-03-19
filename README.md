@@ -23,5 +23,5 @@ Classe SQSProcessorLambda.java
 - Script de teste para criar 100 transações diferentes e fazer a requisição POST
 Código de teste ProjectApplicationTests.java para criar 100 transações diferentes e fazer a requisição POST.
 - Criação de uma tela simples usando Next.js para exibir as transações salvas no DynamoDB
-Diretório next.js com subdretório pages e api contendo funções transactions.js e transactionController.js,, respectivamente.Para exibir as transações salvas no DynamoDB.
+Diretório next.js com subdretório pages e api contendo funções transactions.js e transactionController.js, respectivamente.Para exibir as transações salvas no DynamoDB.
 
