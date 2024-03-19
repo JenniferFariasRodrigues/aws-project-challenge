@@ -14,18 +14,14 @@ Crie uma tela simples usando Next.JS que exiba essas transações salvas no Dyna
 ### Passos desenvolvidos
 
 ```bash
-1. Configuração do projeto Spring Boot no VSCode
-   
-  controlador TransactionController.java para lidar com as requisições POST
-  
-3. Criação da API POST em Node.js usando Express
-4. Configuração da AWS SDK e integração com SQS e DynamoDB no Node.js
-5. Criação da função AWS Lambda para consumir a SQS e salvar no DynamoDB
-   Classe SQSProcessorLambda.java
-7. Script de teste para criar 100 transações diferentes e fazer a requisição POST
-   
-   Código de teste ProjectApplicationTests.java para criar 100 transações diferentes e fazer a requisição POST.
-   
-9. Criação de uma tela simples usando Next.js para exibir as transações salvas no DynamoDB
-   Diretório next.js com subdretório pages e api contendo funções transactions.js e transactionController.js,, respectivamente.Para exibir as transações salvas no DynamoDB.
----
+- Configuração do projeto Spring Boot no VSCode
+controlador TransactionController.java para lidar com as requisições POST
+-Criação da API POST em Node.js usando Express
+-Configuração da AWS SDK e integração com SQS e DynamoDB no Node.js
+-Criação da função AWS Lambda para consumir a SQS e salvar no DynamoDB
+Classe SQSProcessorLambda.java
+- Script de teste para criar 100 transações diferentes e fazer a requisição POST
+Código de teste ProjectApplicationTests.java para criar 100 transações diferentes e fazer a requisição POST.
+- Criação de uma tela simples usando Next.js para exibir as transações salvas no DynamoDB
+Diretório next.js com subdretório pages e api contendo funções transactions.js e transactionController.js,, respectivamente.Para exibir as transações salvas no DynamoDB.
+
